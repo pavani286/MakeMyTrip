@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-18T20:03:18Z" name="Command line suite" finished-at="2021-09-18T20:06:15Z" duration-ms="177118">
+    <groups>
+    </groups>
+    <test started-at="2021-09-18T20:03:18Z" name="Command line test" finished-at="2021-09-18T20:06:15Z" duration-ms="177118">
+      <class name="com.crm.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.testcases.HomePageTest@34c4973]" started-at="2021-09-18T15:03:52Z" name="setup" finished-at="2021-09-18T15:04:05Z" duration-ms="13059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateHomePageTitleTest()[pri:1, instance:com.crm.qa.testcases.HomePageTest@34c4973]" started-at="2021-09-18T15:04:05Z" name="validateHomePageTitleTest" finished-at="2021-09-18T15:04:05Z" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePageTitleTest -->
+        <test-method is-config="true" signature="ClosingBrowser()[pri:0, instance:com.crm.qa.testcases.HomePageTest@34c4973]" started-at="2021-09-18T15:04:05Z" name="ClosingBrowser" finished-at="2021-09-18T15:04:05Z" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosingBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.testcases.HomePageTest@34c4973]" started-at="2021-09-18T15:04:23Z" name="setup" finished-at="2021-09-18T15:04:36Z" duration-ms="12628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyusernameTest()[pri:2, instance:com.crm.qa.testcases.HomePageTest@34c4973]" started-at="2021-09-18T15:04:36Z" name="VerifyusernameTest" finished-at="2021-09-18T15:04:36Z" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyusernameTest -->
+        <test-method is-config="true" signature="ClosingBrowser()[pri:0, instance:com.crm.qa.testcases.HomePageTest@34c4973]" started-at="2021-09-18T15:04:36Z" name="ClosingBrowser" finished-at="2021-09-18T15:04:36Z" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosingBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.testcases.HomePageTest@34c4973]" started-at="2021-09-18T15:06:02Z" name="setup" finished-at="2021-09-18T15:06:15Z" duration-ms="12663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ContactsLinkTest()[pri:3, instance:com.crm.qa.testcases.HomePageTest@34c4973]" started-at="2021-09-18T15:06:15Z" name="ContactsLinkTest" finished-at="2021-09-18T15:06:15Z" duration-ms="594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactsLinkTest -->
+        <test-method is-config="true" signature="ClosingBrowser()[pri:0, instance:com.crm.qa.testcases.HomePageTest@34c4973]" started-at="2021-09-18T15:06:15Z" name="ClosingBrowser" finished-at="2021-09-18T15:06:15Z" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosingBrowser -->
+      </class> <!-- com.crm.qa.testcases.HomePageTest -->
+      <class name="com.crm.qa.testcases.ContactsPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@33c7e1bb]" started-at="2021-09-18T15:03:18Z" name="setup" finished-at="2021-09-18T15:03:35Z" duration-ms="16812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verfiyContactTest()[pri:1, instance:com.crm.qa.testcases.ContactsPageTest@33c7e1bb]" started-at="2021-09-18T15:03:35Z" name="verfiyContactTest" finished-at="2021-09-18T15:03:35Z" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiyContactTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@33c7e1bb]" started-at="2021-09-18T15:03:35Z" name="closebrowser" finished-at="2021-09-18T15:03:35Z" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@33c7e1bb]" started-at="2021-09-18T15:04:10Z" name="setup" finished-at="2021-09-18T15:04:23Z" duration-ms="13156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="selectContactNameTest()[pri:2, instance:com.crm.qa.testcases.ContactsPageTest@33c7e1bb]" started-at="2021-09-18T15:04:23Z" name="selectContactNameTest" finished-at="2021-09-18T15:04:23Z" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectContactNameTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@33c7e1bb]" started-at="2021-09-18T15:04:23Z" name="closebrowser" finished-at="2021-09-18T15:04:23Z" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@33c7e1bb]" started-at="2021-09-18T15:05:08Z" name="setup" finished-at="2021-09-18T15:05:22Z" duration-ms="13568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CreateNewContactsTest(java.lang.String, java.lang.String)[pri:3, instance:com.crm.qa.testcases.ContactsPageTest@33c7e1bb]" started-at="2021-09-18T15:05:22Z" name="CreateNewContactsTest" data-provider="getCRMTestData" finished-at="2021-09-18T15:05:26Z" duration-ms="4613" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewContactsTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@33c7e1bb]" started-at="2021-09-18T15:05:26Z" name="closebrowser" finished-at="2021-09-18T15:05:26Z" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@33c7e1bb]" started-at="2021-09-18T15:05:26Z" name="setup" finished-at="2021-09-18T15:05:40Z" duration-ms="13542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CreateNewContactsTest(java.lang.String, java.lang.String)[pri:3, instance:com.crm.qa.testcases.ContactsPageTest@33c7e1bb]" started-at="2021-09-18T15:05:40Z" name="CreateNewContactsTest" data-provider="getCRMTestData" finished-at="2021-09-18T15:05:44Z" duration-ms="4405" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[David]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Cris]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewContactsTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@33c7e1bb]" started-at="2021-09-18T15:05:44Z" name="closebrowser" finished-at="2021-09-18T15:05:44Z" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@33c7e1bb]" started-at="2021-09-18T15:05:44Z" name="setup" finished-at="2021-09-18T15:05:58Z" duration-ms="13341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CreateNewContactsTest(java.lang.String, java.lang.String)[pri:3, instance:com.crm.qa.testcases.ContactsPageTest@33c7e1bb]" started-at="2021-09-18T15:05:58Z" name="CreateNewContactsTest" data-provider="getCRMTestData" finished-at="2021-09-18T15:06:02Z" duration-ms="4388" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mukta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sharma]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewContactsTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@33c7e1bb]" started-at="2021-09-18T15:06:02Z" name="closebrowser" finished-at="2021-09-18T15:06:02Z" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.crm.qa.testcases.ContactsPageTest -->
+      <class name="com.crm.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@52feb982]" started-at="2021-09-18T15:04:05Z" name="setup" finished-at="2021-09-18T15:04:10Z" duration-ms="4288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginPageTitleTest()[pri:1, instance:com.crm.qa.testcases.LoginPageTest@52feb982]" started-at="2021-09-18T15:04:10Z" name="LoginPageTitleTest" finished-at="2021-09-18T15:04:10Z" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTitleTest -->
+        <test-method is-config="true" signature="ClosingBrowser()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@52feb982]" started-at="2021-09-18T15:04:10Z" name="ClosingBrowser" finished-at="2021-09-18T15:04:10Z" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosingBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@52feb982]" started-at="2021-09-18T15:04:36Z" name="setup" finished-at="2021-09-18T15:04:40Z" duration-ms="4151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginTest()[pri:2, instance:com.crm.qa.testcases.LoginPageTest@52feb982]" started-at="2021-09-18T15:04:40Z" name="LoginTest" finished-at="2021-09-18T15:04:49Z" duration-ms="8687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="ClosingBrowser()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@52feb982]" started-at="2021-09-18T15:04:49Z" name="ClosingBrowser" finished-at="2021-09-18T15:04:49Z" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosingBrowser -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTest -->
+      <class name="com.crm.qa.testcases.DealsPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.testcases.DealsPageTest@7a765367]" started-at="2021-09-18T15:03:35Z" name="setup" finished-at="2021-09-18T15:03:52Z" duration-ms="16573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyDealsLabelTest()[pri:1, instance:com.crm.qa.testcases.DealsPageTest@7a765367]" started-at="2021-09-18T15:03:52Z" name="verifyDealsLabelTest" finished-at="2021-09-18T15:03:52Z" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDealsLabelTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.crm.qa.testcases.DealsPageTest@7a765367]" started-at="2021-09-18T15:03:52Z" name="closebrowser" finished-at="2021-09-18T15:03:52Z" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.testcases.DealsPageTest@7a765367]" started-at="2021-09-18T15:04:49Z" name="setup" finished-at="2021-09-18T15:05:05Z" duration-ms="15646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyDealIdTest()[pri:2, instance:com.crm.qa.testcases.DealsPageTest@7a765367]" started-at="2021-09-18T15:05:05Z" name="verifyDealIdTest" finished-at="2021-09-18T15:05:07Z" duration-ms="2744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDealIdTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.crm.qa.testcases.DealsPageTest@7a765367]" started-at="2021-09-18T15:05:07Z" name="closebrowser" finished-at="2021-09-18T15:05:07Z" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.crm.qa.testcases.DealsPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

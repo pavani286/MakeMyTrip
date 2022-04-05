@@ -1,0 +1,11 @@
+/Users/pavanivemula/Documents/Workspace/FreeCRMTest_POM/src/main/java/com/crm/qa/pages/HomePage.java
+/Users/pavanivemula/Documents/Workspace/FreeCRMTest_POM/src/main/java/com/crm/qa/pages/SignupPage.java
+/Users/pavanivemula/Documents/Workspace/FreeCRMTest_POM/src/main/java/com/crm/qa/pages/TasksPage.java
+/Users/pavanivemula/Documents/Workspace/FreeCRMTest_POM/src/main/java/com/crm/qa/util/TestData.java
+/Users/pavanivemula/Documents/Workspace/FreeCRMTest_POM/src/main/java/com/crm/qa/pages/LoginPage.java
+/Users/pavanivemula/Documents/Workspace/FreeCRMTest_POM/src/main/java/com/crm/qa/base/BaseTest.java
+/Users/pavanivemula/Documents/Workspace/FreeCRMTest_POM/src/main/java/com/crm/qa/pages/DealsPage.java
+/Users/pavanivemula/Documents/Workspace/FreeCRMTest_POM/src/main/java/com/crm/qa/pages/ContactsPage.java
+/Users/pavanivemula/Documents/Workspace/FreeCRMTest_POM/src/main/java/com/qa/ExtentReportListener/ExtentReporterNG.java
+/Users/pavanivemula/Documents/Workspace/FreeCRMTest_POM/src/main/java/com/crm/qa/util/TestUtil.java
+/Users/pavanivemula/Documents/Workspace/FreeCRMTest_POM/src/main/java/com/crm/qa/util/WebEventListener.java
